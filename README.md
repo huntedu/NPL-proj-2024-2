@@ -1,6 +1,6 @@
 # NPL-proj-2024-2
   채용 공고 분석을 통한 이직 시장 트렌드 파악
-# Introduction
+## Introduction
 - 어떤 직무에 어떤 기술 스택을 배워야 할까 고민하던 중 찾아볼 사이트가 마땅치 않아 기획
 # Getting Started
 ## Prerequisites
